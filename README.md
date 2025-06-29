@@ -1,7 +1,7 @@
 # Atomcamp-Project06
 # Higgs Boson Machine Learning Challenge: Binary Classification
-
-This repository contains my approach to solving a binary classification problem inspired by the [Higgs Boson Machine Learning Challenge](https://www.kaggle.com/competitions/higgs-boson). The goal is to accurately classify particle collision events as signal (1) or background (0).
+---
+### This repository contains my approach to solving a binary classification problem inspired by the [Higgs Boson Machine Learning Challenge](https://www.kaggle.com/competitions/higgs-boson). The goal is to accurately classify particle collision events as signal (1) or background (0).
 ---
 
 ## 🧠 Models Used
